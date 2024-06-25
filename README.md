@@ -19,12 +19,14 @@
 ## ***Download s2gram***
 
 You can download the latest version of s2gram by cloning the GitHub repository.
-
+```bash
     git clone https://github.com/ShingareOm/s2gram.git
+```
 
 ## ***Installation***
 
  - cd to **s2gram** directory.
+ - add your `TOKEN="YOUR-BOT-TOKEN"` & `CHAT_ID="YOUR-CHAT-ID-OF-TELEGRAM"`
  - make executable: `sudo chmod +x ./s2gram.sh`
  - add in /bin: `sudo cp s2gram.sh /bin/s2gram` OR `sudo cp s2gram /usr/bin/s2gram` 
  - you will be able to access and run the s2gram with simple `s2gram --help` command.
