@@ -12,16 +12,16 @@
      ```
      Replace <YOUR_BOT_TOKEN> with your actual bot token obtained from BotFather.
 
-##Finding the Chat ID from API Response:
+## Finding the Chat ID from API Response:
    Look for the chat object in the JSON response returned by the API call.
    The id field within the chat object contains your chat ID.
 
-##Note:
+## Note:
    Your chat ID is a numeric value. It typically starts with a negative sign if it's a group chat.
 
-##Security Warning:
+## Security Warning:
    Keep your chat ID secure and avoid sharing it publicly, as it can potentially be used to send messages to your account.
 
-##Further Reading:
+## Further Reading:
    [Telegram Bot API Documentation](https://core.telegram.org/bots/api)
    [Telegram API getUpdates Method Documentation](https://core.telegram.org/bots/api#getupdates)
