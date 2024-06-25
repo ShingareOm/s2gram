@@ -12,7 +12,7 @@
 
 ## ***Requirements***
 
-- curl /bin
+- curl needs to be installed, If not installed already.
 - Telegram chat ID [CHATID](CHATID.md)
 - Telegram bot API token [AUTHTOKEN](AUTHTOKEN.md)
 ## ***Installation***
