@@ -15,19 +15,19 @@
 - curl needs to be installed, If not installed already.
 - Telegram chat ID [CHATID](CHATID.md)
 - Telegram bot API token [AUTHTOKEN](AUTHTOKEN.md)
-## ***Installation***
-
- - cd to **s2gram** directory.
- - make executable: `sudo chmod +x ./s2gram.sh`
- - add in /bin: `sudo cp s2gram.sh /bin/s2gram` OR `sudo cp s2gram /usr/bin/s2gram` 
- - you will be able to access and run the s2gram with simple `s2gram --help` command.
-
 
 ## ***Download s2gram***
 
 You can download the latest version of s2gram by cloning the GitHub repository.
 
     git clone https://github.com/ShingareOm/s2gram.git
+
+## ***Installation***
+
+ - cd to **s2gram** directory.
+ - make executable: `sudo chmod +x ./s2gram.sh`
+ - add in /bin: `sudo cp s2gram.sh /bin/s2gram` OR `sudo cp s2gram /usr/bin/s2gram` 
+ - you will be able to access and run the s2gram with simple `s2gram --help` command.
 
 ## ***Features***
 - Send Messages
