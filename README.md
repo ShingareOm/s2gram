@@ -10,7 +10,7 @@
 
 ![s2gram-banner](banner.png)
 
-## ***Requirements***
+## ***Requirements*** <a name="requirements"></a>
 
 - curl needs to be installed, If not installed already.
 - Telegram chat ID [CHATID](CHATID.md)
@@ -20,13 +20,13 @@
 
 You can download the latest version of s2gram by cloning the GitHub repository.
 ```bash
-    git clone https://github.com/ShingareOm/s2gram.git
+git clone https://github.com/ShingareOm/s2gram.git
 ```
 
 ## ***Installation***
 
  - cd to **s2gram** directory. ```cd s2gram```
- - add your `TOKEN="YOUR-BOT-TOKEN"` & `CHAT_ID="YOUR-CHAT-ID-OF-TELEGRAM"`
+ - add your `TOKEN="YOUR-BOT-TOKEN"` & `CHAT_ID="YOUR-CHAT-ID-OF-TELEGRAM"` in s2gram.sh shell script, See [Requirements](#requirements) 
  - make executable: `sudo chmod +x ./s2gram.sh`
  - add in /bin: `sudo cp s2gram.sh /bin/s2gram` OR `sudo cp s2gram /usr/bin/s2gram` 
  - you will be able to access and run the s2gram with simple `s2gram --help` command.
