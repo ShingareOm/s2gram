@@ -1,4 +1,4 @@
-# Finding Your Telegram Chat ID
+## Finding Your Telegram Chat ID
 
 1. Use a Bot to Get Your Chat ID:
    Use a bot like [@userinfobot](https://t.me/userinfobot) to get your chat ID. 
