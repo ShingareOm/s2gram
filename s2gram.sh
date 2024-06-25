@@ -1,8 +1,8 @@
 #!/bin/bash
 
-TOKEN="7462221057:AAFXxdxxP9h_cdudtwREq9WdVlS7pBdTkYw"
+TOKEN="YOUR-GODFATHER-BOT-TOKEN"
 
-CHAT_ID="7299407396"
+CHAT_ID="YOUR-CHAT-ID-OF-TELEGRAM"
 
 FIGLET_ART=$(cat << "EOF"
         ___                            
