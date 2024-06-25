@@ -8,7 +8,7 @@
 # s2gram
 **s2gram.sh is a Bash script that facilitates sending text messages or files to a Telegram chat using a Telegram bot.**
 
-![s2gram-banner](banner.mp4)
+![s2gram-banner](banner.png)
 
 ## ***Requirements***
 
