@@ -33,6 +33,6 @@ To create a new bot on Telegram, you'll need to use BotFather, Telegram's offici
 
 Here's an example of how to use cURL to retrieve basic information about your bot:
 
-`bash
+```bash
 curl https://api.telegram.org/bot<YOUR_BOT_TOKEN>/getMe
-`
+```
