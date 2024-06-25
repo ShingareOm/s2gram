@@ -13,7 +13,8 @@
 ## ***Requirements***
 
 - curl /bin
-
+- Telegram chat ID [CHATID](CHATID.md)
+- Telegram bot API token [AUTHTOKEN](AUTHTOKEN.md)
 ## ***Installation***
 
  - cd to **s2gram** directory.
